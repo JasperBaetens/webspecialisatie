@@ -1,4 +1,4 @@
-css-Animatie
+Drupal
 ============
 
-Web specialisatie in css animatie
+Web specialisatie Drupal
